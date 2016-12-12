@@ -20,7 +20,7 @@ public class PruebaGIT {
         System.out.print("Ahora actualizamos desde el servidor de GITHUB ");
         
         // Ahora si quieres ponemos aqui otra cosa  //     
-                
+           /*Pero tonse que dise usted     */
                 
     }
     
