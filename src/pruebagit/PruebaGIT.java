@@ -18,7 +18,8 @@ public class PruebaGIT {
         // TODO code application logic here
     System.out.print("Estamos actualizando el archivo");
         System.out.print("Ahora actualizamos desde el servidor de GITHUB ");
-        int numerito=1;
+        
+        // Ahora si quieres ponemos aqui otra cosa  //     
                 
                 
     }
