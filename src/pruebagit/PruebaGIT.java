@@ -16,11 +16,10 @@ public class PruebaGIT {
      */
     public static void main(String[] args) {
         // TODO code application logic here
-    
-        System.out.print("Estamos actualizando el archivo");
+    System.out.print("Estamos actualizando el archivo");
         
         
-        // Ahora si quieres ponemos aqui otra cosa  //     
+        // Hemos modificado esto para ver como cambia el indicador de la clase  //     
            
                 
     }
