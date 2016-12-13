@@ -18,9 +18,8 @@ public class PruebaGIT {
         // TODO code application logic here
     System.out.print("Estamos actualizando el archivo");
         
-        
-        // Hemos modificado esto para ver como cambia el indicador de la clase  //     
-           
+        // Hemos modificado esto para el comparador de cambios //     
+        /*Una linea nueva*/  
                 
     }
     
