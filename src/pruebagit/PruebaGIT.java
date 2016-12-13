@@ -16,11 +16,11 @@ public class PruebaGIT {
      */
     public static void main(String[] args) {
         // TODO code application logic here
-    System.out.print("Estamos actualizando el archivo con la ramaNetBeans");
+    System.out.print("Estamos actualizando el archivo");
         
         
         // Ahora si quieres ponemos aqui otra cosa  //     
-           /*Pero tonse que dise usted     */
+           
                 
     }
     
