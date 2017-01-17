@@ -18,7 +18,7 @@ public class PruebaGIT {
         // TODO code application logic here
     System.out.print("Estamos actualizando el archivo con la ramaNetBeans");
         
-        System.out.println("Hola rafa");
+        System.out.println("Hola rafa");//Hola
                 
         // Ahora si quieres ponemos aqui otra cosa  //     
            /*Pero tonse que dise usted     */
